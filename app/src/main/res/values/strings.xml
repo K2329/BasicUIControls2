@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="app_name">BasicUIConrols2</string>
+    <string name="login_text">Login:</string>
+    <string name="password_text">Password:</string>
+    <string name="button_text">Login</string>
+</resources>
